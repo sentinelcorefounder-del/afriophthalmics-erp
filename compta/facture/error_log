@@ -1,0 +1,1076 @@
+[25-May-2023 22:26:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-May-2023 22:26:06 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-May-2023 22:26:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[25-May-2023 22:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-May-2023 22:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-May-2023 22:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[25-May-2023 22:29:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-May-2023 22:29:04 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-May-2023 22:29:04 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[26-May-2023 01:08:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[26-May-2023 01:08:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[26-May-2023 01:08:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-May-2023 11:06:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[27-May-2023 11:06:41 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[27-May-2023 11:06:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-May-2023 11:11:10 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:10 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:25 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:25 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:11:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:12:17 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:12:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:12:17 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[27-May-2023 11:12:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2023 01:02:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2023 01:02:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2023 01:02:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2023 01:02:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2023 03:00:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[03-Jun-2023 03:00:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[03-Jun-2023 03:00:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[03-Jun-2023 05:53:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[03-Jun-2023 05:53:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[03-Jun-2023 05:53:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Jun-2023 04:04:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jun-2023 04:04:53 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jun-2023 04:04:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Jun-2023 04:05:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jun-2023 04:05:56 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jun-2023 04:05:56 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Jun-2023 04:06:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jun-2023 04:06:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jun-2023 04:06:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Jul-2023 19:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Jul-2023 19:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Jul-2023 19:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Jul-2023 19:34:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jul-2023 19:34:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jul-2023 19:34:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jul-2023 19:34:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jul-2023 19:57:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Jul-2023 19:57:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Jul-2023 19:57:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[19-Jul-2023 04:02:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[19-Jul-2023 04:02:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[19-Jul-2023 04:02:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Jul-2023 05:29:55 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jul-2023 05:29:55 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jul-2023 05:29:55 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Jul-2023 05:33:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jul-2023 05:33:20 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jul-2023 05:33:20 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Jul-2023 05:34:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jul-2023 05:34:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jul-2023 05:34:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[14-Aug-2023 23:40:34 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2023 23:40:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2023 23:40:34 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2023 23:40:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2023 00:19:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Aug-2023 00:19:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Aug-2023 00:19:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Aug-2023 00:22:55 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Aug-2023 00:22:55 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Aug-2023 00:22:55 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Aug-2023 00:30:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Aug-2023 00:30:39 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Aug-2023 00:30:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[17-Aug-2023 00:55:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[17-Aug-2023 00:55:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[17-Aug-2023 00:55:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[17-Aug-2023 00:58:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[17-Aug-2023 00:58:15 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[17-Aug-2023 00:58:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[17-Aug-2023 10:25:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[17-Aug-2023 10:25:20 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[17-Aug-2023 10:25:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[26-Aug-2023 02:56:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[26-Aug-2023 02:56:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[26-Aug-2023 02:56:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[29-Aug-2023 01:10:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2023 01:10:41 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2023 01:10:41 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[11-Sep-2023 08:31:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:31:27 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:31:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:33:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:33:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:33:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:34:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:34:51 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:34:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:36:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:36:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:36:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:37:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:37:03 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:37:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:38:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:38:03 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:38:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:40:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:40:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:40:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:45:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:45:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:45:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:55:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:55:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:55:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 08:58:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 08:58:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 08:58:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Sep-2023 17:12:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Sep-2023 17:12:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Sep-2023 17:12:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Sep-2023 17:12:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Sep-2023 17:15:21 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[11-Sep-2023 17:18:18 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[11-Sep-2023 17:19:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Sep-2023 17:19:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Sep-2023 17:19:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[11-Sep-2023 17:40:05 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[13-Sep-2023 12:32:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[13-Sep-2023 12:32:17 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[13-Sep-2023 12:32:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[13-Sep-2023 12:33:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[13-Sep-2023 12:33:41 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[13-Sep-2023 12:33:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[25-Sep-2023 12:46:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-Sep-2023 12:46:41 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-Sep-2023 12:46:41 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Sep-2023 01:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Sep-2023 01:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Sep-2023 01:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Sep-2023 01:15:09 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Sep-2023 01:15:09 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Sep-2023 01:15:09 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Sep-2023 01:22:57 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Sep-2023 01:22:57 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Sep-2023 01:22:57 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Sep-2023 01:42:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Sep-2023 01:42:39 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Sep-2023 01:42:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Sep-2023 03:38:18 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[11-Oct-2023 02:12:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2023 02:12:01 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2023 02:12:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2023 02:19:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2023 02:19:04 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2023 02:19:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2023 02:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2023 02:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2023 02:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-Oct-2023 01:19:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[27-Oct-2023 01:19:01 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[27-Oct-2023 01:19:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-Oct-2023 01:19:59 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[27-Oct-2023 01:19:59 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[27-Oct-2023 01:19:59 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-Oct-2023 06:28:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[27-Oct-2023 06:28:14 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[27-Oct-2023 06:28:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Oct-2023 13:02:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:02:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:02:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:02:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:06:44 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:06:44 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:06:44 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:06:44 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[28-Oct-2023 13:06:54 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[28-Oct-2023 13:07:53 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[28-Oct-2023 13:08:58 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[31-Oct-2023 00:18:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[31-Oct-2023 00:18:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[31-Oct-2023 00:18:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[31-Oct-2023 00:18:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[31-Oct-2023 00:20:18 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[31-Oct-2023 00:20:18 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[31-Oct-2023 00:20:18 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[31-Oct-2023 00:26:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[31-Oct-2023 00:26:04 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[31-Oct-2023 00:26:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[31-Oct-2023 00:27:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[31-Oct-2023 00:27:20 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[31-Oct-2023 00:27:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Nov-2023 12:20:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Nov-2023 12:20:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Nov-2023 12:20:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Nov-2023 12:25:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Nov-2023 12:25:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Nov-2023 12:25:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Jan-2024 14:25:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:25:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:25:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:25:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:26:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:26:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:26:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jan-2024 14:26:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2024 08:58:49 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[08-Jan-2024 08:58:49 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[08-Jan-2024 08:58:49 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Jan-2024 17:16:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jan-2024 17:16:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jan-2024 17:16:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jan-2024 17:16:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[11-Jan-2024 17:20:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Jan-2024 17:20:00 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Jan-2024 17:20:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Jan-2024 04:30:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Jan-2024 04:30:15 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Jan-2024 04:30:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:12:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:12:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:12:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:14:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:14:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:14:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:14:57 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:14:57 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:14:57 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:15:40 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:15:40 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:15:40 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:16:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:16:56 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:16:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:17:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:17:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:17:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:19:09 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:19:09 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:19:09 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:20:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:20:27 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:20:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:21:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:21:00 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:21:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:22:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:22:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:22:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:23:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:23:14 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:23:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:24:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:24:17 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:24:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:27:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:28:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:28:03 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:28:03 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:28:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:28:46 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:28:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:29:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:29:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:29:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:30:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:30:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:30:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:31:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:31:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:31:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:33:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:33:01 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:33:01 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[21-Feb-2024 14:55:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Feb-2024 14:55:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Feb-2024 14:55:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[26-Feb-2024 12:28:20 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[26-Feb-2024 12:28:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[26-Feb-2024 12:28:20 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[26-Feb-2024 12:28:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[01-Mar-2024 07:54:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[01-Mar-2024 07:54:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[01-Mar-2024 07:54:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[01-Mar-2024 07:54:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[01-Mar-2024 08:02:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Mar-2024 08:02:30 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Mar-2024 08:02:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Mar-2024 00:52:22 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Mar-2024 00:52:22 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Mar-2024 00:52:22 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Mar-2024 00:58:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Mar-2024 00:58:29 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Mar-2024 00:58:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Mar-2024 02:18:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Mar-2024 02:18:30 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Mar-2024 02:18:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Mar-2024 02:29:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 02:29:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 02:29:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 02:29:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 03:22:52 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Mar-2024 03:22:52 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Mar-2024 03:22:52 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Mar-2024 12:24:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-Mar-2024 12:24:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-Mar-2024 12:24:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Mar-2024 13:23:11 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:23:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:23:11 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:23:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:24:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:24:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:24:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 13:24:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:28 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:28 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:28 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:28 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 15:35:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 23:44:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 23:44:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 23:44:40 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Mar-2024 23:44:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Mar-2024 00:02:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Mar-2024 00:02:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Mar-2024 00:02:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Mar-2024 00:02:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Mar-2024 00:10:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Mar-2024 00:10:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Mar-2024 00:10:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Mar-2024 00:21:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Mar-2024 00:21:53 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Mar-2024 00:21:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Mar-2024 00:22:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Mar-2024 00:22:25 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Mar-2024 00:22:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[24-Mar-2024 07:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[24-Mar-2024 07:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[24-Mar-2024 07:53:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[09-Apr-2024 08:40:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[09-Apr-2024 08:40:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[09-Apr-2024 08:40:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[09-Apr-2024 11:41:37 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:41:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:41:37 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:41:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:43:49 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:43:49 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:43:49 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Apr-2024 11:43:49 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2024 08:03:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Apr-2024 08:03:08 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Apr-2024 08:03:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-May-2024 10:04:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-May-2024 10:04:17 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-May-2024 10:04:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-May-2024 10:50:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-May-2024 10:50:53 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-May-2024 10:50:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[08-May-2024 03:56:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[08-May-2024 03:56:25 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[08-May-2024 03:56:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-May-2024 08:58:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[15-May-2024 08:58:56 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[15-May-2024 08:58:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[24-May-2024 07:53:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:53:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:53:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:53:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:54:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:54:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:54:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:54:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:19 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:19 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 07:55:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-May-2024 19:21:34 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[24-May-2024 19:21:34 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[24-May-2024 19:21:34 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 15:50:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 15:50:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 15:50:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 15:53:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 15:53:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 15:53:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 15:54:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 15:54:37 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 15:54:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 15:59:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 15:59:37 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 15:59:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 16:12:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:12:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:12:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:12:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:14:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 16:14:06 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 16:14:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 16:16:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 16:16:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 16:16:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2319
+[05-Jun-2024 16:16:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 16:16:30 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 16:16:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 16:17:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[05-Jun-2024 16:17:02 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[05-Jun-2024 16:17:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[05-Jun-2024 16:34:30 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[05-Jun-2024 16:37:59 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[05-Jun-2024 16:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:41:48 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[05-Jun-2024 16:43:19 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:43:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:43:19 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:43:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[05-Jun-2024 16:43:27 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[18-Jun-2024 01:49:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[18-Jun-2024 01:49:36 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[18-Jun-2024 01:49:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[18-Jun-2024 01:52:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[18-Jun-2024 01:52:28 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[18-Jun-2024 01:52:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[18-Jun-2024 02:01:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[18-Jun-2024 02:01:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[18-Jun-2024 02:01:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[26-Jun-2024 01:06:51 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[08-Jul-2024 06:04:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:51 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:51 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:04:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:05:07 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:05:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:05:07 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:05:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:11 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:11 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:55 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:55 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:07:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jul-2024 06:08:28 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[25-Jul-2024 21:57:11 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-Jul-2024 21:57:11 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-Jul-2024 21:57:11 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[25-Jul-2024 22:14:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[25-Jul-2024 22:14:00 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[25-Jul-2024 22:14:00 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Aug-2024 22:28:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Aug-2024 22:28:06 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Aug-2024 22:28:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Aug-2024 06:45:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Aug-2024 06:45:06 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Aug-2024 06:45:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Aug-2024 15:26:45 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2024 15:26:45 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2024 15:26:45 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Aug-2024 15:29:05 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2024 15:29:05 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2024 15:29:05 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Aug-2024 17:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2024 17:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2024 17:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Aug-2024 17:35:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2024 17:35:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2024 17:35:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[29-Aug-2024 17:39:19 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[29-Aug-2024 17:39:19 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[29-Aug-2024 17:39:19 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Aug-2024 15:22:58 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:22:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:22:58 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:22:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:26:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:26:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:26:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Aug-2024 15:26:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:07:27 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:07:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:07:27 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:07:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:08:39 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:08:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:08:39 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Nov-2024 01:08:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:43:48 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:43:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:43:48 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:43:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:44:41 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:44:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:44:41 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:44:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:22 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:22 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:45:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:46:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:46:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:46:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:46:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:50:58 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:50:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:50:58 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:50:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:51:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:51:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:51:42 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:51:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:52:43 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:52:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:52:43 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:52:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:54:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:54:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:54:03 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Nov-2024 23:54:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[23-Nov-2024 03:12:24 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Nov-2024 03:12:24 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Nov-2024 03:12:24 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[23-Nov-2024 03:15:44 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Nov-2024 03:15:44 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Nov-2024 03:15:44 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[26-Nov-2024 16:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[26-Nov-2024 16:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[26-Nov-2024 16:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Jan-2025 14:17:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Jan-2025 14:17:46 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Jan-2025 14:17:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Jan-2025 14:19:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Jan-2025 14:19:08 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Jan-2025 14:19:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Jan-2025 14:21:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Jan-2025 14:21:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Jan-2025 14:21:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Jan-2025 14:21:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Jan-2025 14:21:43 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Jan-2025 14:21:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[10-Mar-2025 14:36:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:36:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:36:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[10-Mar-2025 14:37:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[17-Mar-2025 01:24:40 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[17-Mar-2025 01:24:40 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[17-Mar-2025 01:24:40 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Apr-2025 08:43:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Apr-2025 08:43:15 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Apr-2025 08:43:15 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Apr-2025 08:45:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Apr-2025 08:45:39 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Apr-2025 08:45:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Apr-2025 11:43:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Apr-2025 11:43:30 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Apr-2025 11:43:30 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Apr-2025 11:44:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Apr-2025 11:44:46 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Apr-2025 11:44:46 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[23-Apr-2025 01:48:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Apr-2025 01:48:51 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Apr-2025 01:48:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[23-Apr-2025 03:19:11 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Apr-2025 03:19:11 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Apr-2025 03:19:11 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Apr-2025 18:36:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Apr-2025 18:36:06 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Apr-2025 18:36:06 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[28-Apr-2025 18:38:03 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[28-Apr-2025 18:38:34 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[28-Apr-2025 18:38:34 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[28-Apr-2025 18:38:34 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Apr-2025 00:37:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:37:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:37:46 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:37:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:38:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:38:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:38:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:38:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:39:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:39:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:39:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Apr-2025 00:39:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 02:39:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 02:39:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 02:39:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 02:39:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:51:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:51:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:51:18 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:51:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:56:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:56:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:56:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:56:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:29 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 06:58:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-May-2025 15:06:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[06-May-2025 15:06:28 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[06-May-2025 15:06:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[06-May-2025 15:10:13 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[06-May-2025 15:13:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[06-May-2025 15:13:53 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[06-May-2025 15:13:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-May-2025 06:08:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-May-2025 06:08:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-May-2025 06:08:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-May-2025 06:08:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:47:54 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:47:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:47:54 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:47:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:48:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:48:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:48:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:48:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:51:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:51:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:51:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 15:51:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:14 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:14 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:56 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:13:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:14:12 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:14:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:14:12 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:14:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:15:36 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:15:36 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:15:36 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-May-2025 16:15:36 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[03-Jun-2025 01:06:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[03-Jun-2025 01:06:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[03-Jun-2025 01:06:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:16:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:16:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:16:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:17:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:17:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:17:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:19:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:19:36 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:19:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:21:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:21:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:21:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:22:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:22:29 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:22:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:24:05 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:24:05 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:24:05 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:24:49 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:24:49 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:24:49 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:25:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:25:42 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:25:42 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:26:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:26:25 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:26:25 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:27:52 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:27:52 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:27:52 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:29:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:33:45 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:33:45 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:33:45 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:34:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:34:43 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:34:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Jun-2025 16:35:24 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Jun-2025 16:35:24 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Jun-2025 16:35:24 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Jun-2025 05:23:22 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Jun-2025 05:23:22 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Jun-2025 05:23:22 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[13-Jun-2025 10:19:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[13-Jun-2025 10:19:14 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[13-Jun-2025 10:19:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[10-Jul-2025 06:50:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[10-Jul-2025 06:50:10 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[10-Jul-2025 06:50:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Jul-2025 05:00:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Jul-2025 05:00:35 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Jul-2025 05:00:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Jul-2025 05:26:46 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[16-Jul-2025 05:26:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Jul-2025 05:26:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Jul-2025 05:26:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Jul-2025 05:26:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[26-Jul-2025 11:07:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[26-Jul-2025 11:07:29 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[26-Jul-2025 11:07:29 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[26-Jul-2025 11:08:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[26-Jul-2025 11:08:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[26-Jul-2025 11:08:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[27-Jul-2025 02:19:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[27-Jul-2025 02:19:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[27-Jul-2025 02:19:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Aug-2025 07:18:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Aug-2025 07:18:28 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Aug-2025 07:18:28 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[13-Aug-2025 13:22:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[13-Aug-2025 13:22:35 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[13-Aug-2025 13:22:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Aug-2025 08:23:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Aug-2025 08:23:47 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Aug-2025 08:23:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Aug-2025 08:26:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Aug-2025 08:26:47 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Aug-2025 08:26:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Aug-2025 08:33:36 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[14-Aug-2025 08:35:25 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2025 08:35:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2025 08:35:25 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2025 08:35:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Aug-2025 11:45:31 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Aug-2025 11:45:31 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Aug-2025 11:45:31 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Aug-2025 00:26:47 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:26:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:26:47 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:26:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:32:45 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:32:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:32:45 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:32:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:33:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:33:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:33:16 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:33:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Aug-2025 00:33:55 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[23-Aug-2025 17:08:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Aug-2025 17:08:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Aug-2025 17:08:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[23-Aug-2025 17:08:50 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Aug-2025 17:08:50 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Aug-2025 17:08:50 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Sep-2025 11:08:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Sep-2025 11:08:17 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Sep-2025 11:08:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Sep-2025 11:11:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Sep-2025 11:11:51 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Sep-2025 11:11:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Sep-2025 11:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Sep-2025 11:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Sep-2025 11:12:48 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Sep-2025 11:15:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[04-Sep-2025 11:15:27 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[04-Sep-2025 11:15:27 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Sep-2025 20:46:35 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Sep-2025 20:46:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Sep-2025 20:46:35 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Sep-2025 20:46:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Sep-2025 21:16:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Sep-2025 21:16:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Sep-2025 21:16:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[13-Sep-2025 05:09:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[13-Sep-2025 05:09:12 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[13-Sep-2025 05:09:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Sep-2025 11:50:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Sep-2025 11:50:08 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Sep-2025 11:50:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Sep-2025 11:52:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[16-Sep-2025 11:52:35 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[16-Sep-2025 11:52:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Sep-2025 11:57:01 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[18-Sep-2025 09:08:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[18-Sep-2025 09:08:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[18-Sep-2025 09:08:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[18-Sep-2025 09:08:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[23-Sep-2025 06:50:26 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[23-Sep-2025 06:50:26 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[23-Sep-2025 06:50:26 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Sep-2025 05:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Sep-2025 05:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Sep-2025 05:33:10 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Oct-2025 07:08:26 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Oct-2025 07:08:26 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Oct-2025 07:08:26 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[01-Oct-2025 07:08:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[01-Oct-2025 07:08:53 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[01-Oct-2025 07:08:53 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:22:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:22:47 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:22:47 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:25:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:25:04 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:25:04 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:26:54 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:26:54 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:26:54 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:28:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:28:43 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:28:43 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:30:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:30:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:30:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:31:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:31:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:31:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Oct-2025 08:32:50 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Oct-2025 08:32:50 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Oct-2025 08:32:50 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[04-Oct-2025 02:23:27 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 02:23:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 02:23:27 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 02:23:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 07:49:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 07:49:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 07:49:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[04-Oct-2025 07:49:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-Oct-2025 11:42:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-Oct-2025 11:42:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-Oct-2025 11:42:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-Oct-2025 11:42:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[06-Oct-2025 11:45:25 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[06-Oct-2025 11:50:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[06-Oct-2025 11:50:14 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[06-Oct-2025 11:50:14 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[06-Oct-2025 11:56:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[06-Oct-2025 11:56:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[06-Oct-2025 11:56:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2025 12:39:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2025 12:39:33 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2025 12:39:33 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2025 12:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2025 12:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2025 12:43:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2025 12:46:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2025 12:46:02 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2025 12:46:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[11-Oct-2025 12:58:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[11-Oct-2025 12:58:20 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[11-Oct-2025 12:58:20 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[16-Oct-2025 05:52:10 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Oct-2025 05:52:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Oct-2025 05:52:10 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[16-Oct-2025 05:52:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:11:30 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:11:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:11:30 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:11:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:14:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:14:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:14:31 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 00:14:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[21-Oct-2025 16:39:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[21-Oct-2025 16:39:37 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[21-Oct-2025 16:39:37 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[24-Oct-2025 05:08:33 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:33 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:57 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:08:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:09:28 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:09:28 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:09:28 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[24-Oct-2025 05:09:28 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[30-Oct-2025 07:46:18 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Oct-2025 07:46:18 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Oct-2025 07:46:18 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Oct-2025 07:50:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Oct-2025 07:50:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Oct-2025 07:50:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Oct-2025 07:52:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Oct-2025 07:52:08 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Oct-2025 07:52:08 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Oct-2025 07:53:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[30-Oct-2025 07:53:16 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[30-Oct-2025 07:53:16 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[30-Oct-2025 07:54:54 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[02-Nov-2025 15:22:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Nov-2025 15:22:12 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Nov-2025 15:22:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[02-Nov-2025 15:25:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[02-Nov-2025 15:25:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[02-Nov-2025 15:25:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Nov-2025 01:55:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[07-Nov-2025 01:55:56 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[07-Nov-2025 01:55:56 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[07-Nov-2025 13:27:55 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Nov-2025 13:27:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Nov-2025 13:27:55 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Nov-2025 13:27:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[07-Nov-2025 13:29:06 America/Chicago] PHP Warning:  Undefined variable $totalpaid in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 741
+[14-Nov-2025 13:33:55 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Nov-2025 13:33:55 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Nov-2025 13:33:55 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[08-Jan-2026 07:41:21 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:21 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:21 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:21 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:38 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:54 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:54 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[08-Jan-2026 07:41:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Jan-2026 14:06:09 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Jan-2026 14:06:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Jan-2026 14:06:09 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[09-Jan-2026 14:06:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:01:48 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:01:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:01:48 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:01:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:07:53 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:07:53 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:07:53 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:07:53 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:12:01 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:12:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:12:01 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:12:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:15:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:15:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:15:00 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:15:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:18:47 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:18:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:18:47 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:18:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:23:23 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:23:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:23:23 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:23:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:27:59 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:27:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:27:59 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:27:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:28:23 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:28:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:28:23 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:28:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:05 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:05 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:24 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:24 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:38:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[14-Jan-2026 23:41:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:07 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:07 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:13 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:13 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:17 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:17 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:23 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:23 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:32 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:32 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:36 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:36 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:39 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:39 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:51 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:54 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:54 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:54 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:41:59 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:41:59 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:41:59 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:42:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:42:02 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:42:02 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:42:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:42:12 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:42:12 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:42:31 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:42:31 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:42:31 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:42:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:42:35 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:42:35 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[14-Jan-2026 23:42:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2298
+[14-Jan-2026 23:42:38 America/Chicago] PHP Warning:  Undefined variable $price_min_ttc in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2299
+[14-Jan-2026 23:42:38 America/Chicago] PHP Warning:  Undefined variable $price_min in /home4/afriopht/staff.afriophthalmics.com/compta/facture/card.php on line 2315
+[15-Jan-2026 08:44:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:06 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:13 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:44:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:50:22 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:50:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:50:22 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 08:50:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 09:43:39 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 09:43:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 09:43:39 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[15-Jan-2026 09:43:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 12:09:05 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 12:09:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 12:09:05 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 12:09:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 18:07:20 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 18:07:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 18:07:20 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[19-Jan-2026 18:07:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16

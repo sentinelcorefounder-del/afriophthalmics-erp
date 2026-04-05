@@ -1,0 +1,2 @@
+[28-Nov-2023 12:49:16 America/Chicago] PHP Warning:  Attempt to read property "amount" on null in /home4/afriopht/staff.afriophthalmics.com/comm/remx.php on line 283
+[28-Nov-2023 12:49:16 America/Chicago] PHP Warning:  Attempt to read property "fk_user" on null in /home4/afriopht/staff.afriophthalmics.com/comm/remx.php on line 284

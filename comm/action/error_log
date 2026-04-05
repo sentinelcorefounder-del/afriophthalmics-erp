@@ -1,0 +1,7 @@
+[11-Jul-2023 19:36:08 America/Chicago] PHP Warning:  Undefined property: Conf::$fckeditor in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019
+[11-Jul-2023 19:36:08 America/Chicago] PHP Warning:  Attempt to read property "enabled" on null in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019
+[11-Jul-2023 19:36:52 America/Chicago] PHP Warning:  Undefined variable $assignedtouser in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 786
+[11-Jul-2023 19:36:59 America/Chicago] PHP Warning:  Undefined property: Conf::$fckeditor in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019
+[11-Jul-2023 19:36:59 America/Chicago] PHP Warning:  Attempt to read property "enabled" on null in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019
+[13-Sep-2025 05:02:53 America/Chicago] PHP Warning:  Undefined property: Conf::$fckeditor in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019
+[13-Sep-2025 05:02:53 America/Chicago] PHP Warning:  Attempt to read property "enabled" on null in /home4/afriopht/staff.afriophthalmics.com/comm/action/card.php on line 2019

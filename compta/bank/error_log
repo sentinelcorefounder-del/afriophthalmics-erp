@@ -1,0 +1,14 @@
+[25-May-2023 22:02:28 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 174
+[25-May-2023 22:02:28 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 641
+[25-May-2023 22:04:04 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 270
+[25-May-2023 22:04:26 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[25-May-2023 22:04:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[25-May-2023 22:08:26 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 174
+[25-May-2023 22:08:26 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 641
+[25-May-2023 22:09:43 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 270
+[25-May-2023 22:10:55 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 174
+[25-May-2023 22:11:16 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 174
+[25-May-2023 22:11:16 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 641
+[25-May-2023 22:11:39 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 270
+[05-Jun-2024 16:40:36 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 270
+[05-Jun-2024 16:41:16 America/Chicago] PHP Warning:  Undefined property: stdClass::$MAIN_BANK_ACCOUNTANCY_CODE_ALWAYS_REQUIRED in /home4/afriopht/staff.afriophthalmics.com/compta/bank/card.php on line 270

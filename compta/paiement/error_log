@@ -1,0 +1,2 @@
+[02-Jun-2023 00:55:58 America/Chicago] PHP Warning:  Undefined array key "type" in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16
+[02-Jun-2023 00:55:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home4/afriopht/staff.afriophthalmics.com/core/tpl/list_print_total.tpl.php on line 16

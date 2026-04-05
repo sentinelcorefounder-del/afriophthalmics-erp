@@ -1,0 +1,24 @@
+[07-Jun-2023 05:15:50 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 145
+[07-Jun-2023 05:17:35 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 145
+[07-Jun-2023 05:17:35 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:17:35 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:21:18 America/Chicago] PHP Warning:  Undefined array key "" in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 145
+[07-Jun-2023 05:21:18 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:21:18 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:21:47 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:21:47 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:18 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:18 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:27 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:27 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:27 America/Chicago] PHP Warning:  Undefined variable $mask in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 1926
+[07-Jun-2023 05:22:39 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:39 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:22:39 America/Chicago] PHP Warning:  Undefined variable $mask in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 1926
+[07-Jun-2023 05:23:10 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:23:10 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:23:10 America/Chicago] PHP Warning:  Undefined variable $mask in /home4/afriopht/staff.afriophthalmics.com/product/card.php on line 1926
+[07-Jun-2023 05:23:35 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:23:35 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:24:05 America/Chicago] PHP Warning:  Undefined property: stdClass::$fournisseur in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
+[07-Jun-2023 05:24:05 America/Chicago] PHP Warning:  Attempt to read property "lire" on null in /home4/afriopht/staff.afriophthalmics.com/core/lib/product.lib.php on line 72
